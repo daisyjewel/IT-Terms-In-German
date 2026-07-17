@@ -1,4 +1,4 @@
-# 🇩🇪 TechDeutsch: Alphabetical German-English-Indonesian IT Dictionary
+# TechDeutsch: Alphabetical German-English-Indonesian IT Dictionary
 *Kamus istilah teknologi, informasi, dan pemrograman dari bahasa Jerman ke bahasa Inggris dan Indonesia yang disusun berdasarkan urutan abjad (A-Z).*
 
 > [!TIP]
