@@ -15,12 +15,12 @@
 
 ## 🅰️ A
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- |
-| **der Absturz** | Crash / System failure | Sistem runtuh / Hang | Kondisi saat program atau seluruh sistem operasi tiba-tiba berhenti bekerja. |
-| **die Aktualisierung** | Update | Pembaruan | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
-| **der Algorithmus** | Algorithm | Algoritma | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah. |
-| **die Anwendung** | Application / App | Aplikasi | Program perangkat lunak yang dirancang untuk menjalankan tugas spesifik pengguna. |
+| **der Absturz** | Crash / System failure | Sistem runtuh / Hang | A condition when a program or the entire operating system suddenly stops working. | Kondisi saat program atau seluruh sistem operasi tiba-tiba berhenti bekerja. |
+| **die Aktualisierung** | Update | Pembaruan | The process of updating software to a newer version. | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
+| **der Algorithmus** | Algorithm | Algoritma | A logical and systematic sequence of steps to solve a specific problem. | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah.
+| **die Anwendung** | Application / App | Aplikasi | A software program designed to perform specific tasks for the user. | Program perangkat lunak yang dirancang untuk menjalankan tugas spesifik pengguna. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
