@@ -16,7 +16,7 @@
 ## 🅰️ A
 
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **der Absturz** | Crash / System failure | Sistem runtuh / Hang | A condition when a program or the entire operating system suddenly stops working. | Kondisi saat program atau seluruh sistem operasi tiba-tiba berhenti bekerja. |
 | **die Aktualisierung** | Update | Pembaruan | The process of updating software to a newer version. | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
 | **der Algorithmus** | Algorithm | Algoritma | A logical and systematic sequence of steps to solve a specific problem. | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah.
