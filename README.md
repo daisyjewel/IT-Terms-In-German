@@ -27,10 +27,10 @@
 
 ## 🅱️ B
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **die Benutzeroberfläche** | User Interface (UI) | Antarmuka pengguna | Tampilan visual sebuah aplikasi yang berinteraksi langsung dengan pengguna. |
-| **der Browserverlauf** | Browser history | Riwayat penjelajahan | Daftar situs web yang pernah dikunjungi di browser internet. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **die Benutzeroberfläche** | User Interface (UI) | Antarmuka pengguna | The visual display of an application that interacts directly with the user. | Tampilan visual sebuah aplikasi yang berinteraksi langsung dengan pengguna. |
+| **der Browserverlauf** | Browser history | Riwayat penjelajahan | A record of web pages that a user has visited and their associated data stored by a web browser. | Daftar situs web yang pernah dikunjungi di browser internet. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
