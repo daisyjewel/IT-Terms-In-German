@@ -37,9 +37,9 @@
 
 ## 🅲 C
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **die Cyberattacke** | Cyberattack | Serangan siber | Upaya ilegal untuk merusak, mencuri data, atau menembus jaringan komputer. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **die Cyberattacke** | Cyberattack | Serangan siber | An intentional and malicious attempt by hackers to compromise, damage, or gain unauthorized access to a computer system or network. | Upaya ilegal untuk merusak, mencuri data, atau menembus jaringan komputer. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
