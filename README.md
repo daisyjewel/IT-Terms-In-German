@@ -58,9 +58,9 @@
 
 ## 🅴 E
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **entwickeln** | To develop | Mengembangkan | Proses merancang dan membangun perangkat lunak atau sistem. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **entwickeln** | To develop | Mengembangkan | To create, design, or improve software, applications, or systems through coding and engineering. | Proses merancang dan membangun perangkat lunak atau sistem. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
