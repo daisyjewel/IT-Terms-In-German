@@ -77,9 +77,9 @@
 
 ## 🅶 G
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **gehackt werden** | To be hacked | Diretas / Kena retas | Kondisi ketika akun atau sistem ditembus secara ilegal oleh pihak luar. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **gehackt werden** | To be hacked | Diretas / Kena retas | To have a computer system, account, or network compromised or illegally accessed by a hacker without authorization. | Kondisi ketika akun atau sistem ditembus secara ilegal oleh pihak luar. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
