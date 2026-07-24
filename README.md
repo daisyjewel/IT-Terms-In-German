@@ -107,9 +107,9 @@
 
 ## 🅺 K
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **das Kompilieren** | Compiling | Kompilasi | Proses mengubah kode program (*source code*) menjadi bahasa mesin yang siap jalan. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
+| :--- | :--- | :--- | :--- | :--- |
+| **das Kompilieren** | Compiling | Kompilasi | The process of converting human-readable source code into machine-executable code using a compiler. | Proses mengubah kode program (*source code*) menjadi bahasa mesin yang siap jalan. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
