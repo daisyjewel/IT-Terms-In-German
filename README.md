@@ -86,11 +86,11 @@
 
 ## 🅷 H
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **die Hardware** | Hardware | Perangkat keras | Komponen fisik penyusun komputer (seperti CPU, RAM, Keyboard). |
-| **herunterladen** | To download | Mengunduh / Download | Proses mengambil data dari server internet ke komputer lokal. |
-| **hochladen** | To upload | Mengunggah / Upload | Proses mengirim data dari komputer lokal ke server internet. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **die Hardware** | Hardware | Perangkat keras | The physical components and devices that make up a computer system or electronic network. | Komponen fisik penyusun komputer (seperti CPU, RAM, Keyboard). |
+| **herunterladen** | To download | Mengunduh / Download | download: The process of receiving or transferring data and files from the internet to a local device. | Proses mengambil data dari server internet ke komputer lokal. |
+| **hochladen** | To upload | Mengunggah / Upload | upload: The process of sending or transferring data and files from a local device to the internet or a server. | Proses mengirim data dari komputer lokal ke server internet. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
