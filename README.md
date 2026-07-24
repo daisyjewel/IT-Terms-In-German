@@ -97,10 +97,10 @@
 
 ## 🅸 I
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **die Informatik** | Computer Science | Ilmu Komputer / Informatika | Ilmu yang mempelajari tentang pemrosesan informasi dan sistem komputer. |
-| **installieren** | To install | Memasang / Instal | Proses menaruh dan mengonfigurasi perangkat lunak ke dalam sistem. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **die Informatik** | Computer Science | Ilmu Komputer / Informatika | The science and study of systematic information processing, especially automatic processing using computers and software systems. | Ilmu yang mempelajari tentang pemrosesan informasi dan sistem komputer. |
+| **installieren** | To install | Memasang / Instal | The process of setting up software, a program, or hardware on a computer so that it is ready to be used. | Proses menaruh dan mengonfigurasi perangkat lunak ke dalam sistem. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
