@@ -117,8 +117,8 @@
 ## 🅻 L
 
 | Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **löschen** | To delete / clear | Menghapus | Proses melenyapkan data atau file dari sistem penyimpanan. |
+| :--- | :--- | :--- | :--- | :--- |
+| **löschen** | To delete / clear | Menghapus | The action of permanently or temporarily removing data, files, user accounts, records, or clearing screen/memory states in software and systems. | Proses melenyapkan data atau file dari sistem penyimpanan. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
