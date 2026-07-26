@@ -116,7 +116,7 @@
 
 ## 🅻 L
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
 | **löschen** | To delete / clear | Menghapus | The action of permanently or temporarily removing data, files, user accounts, records, or clearing screen/memory states in software and systems. | Proses melenyapkan data atau file dari sistem penyimpanan. |
 
