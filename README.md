@@ -125,9 +125,9 @@
 
 ## 🅽 N
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **das Netzwerk** | Network | Jaringan | Kumpulan komputer atau perangkat yang saling terhubung untuk berbagi data. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **das Netzwerk** | Network | Jaringan | A collection of interconnected computers, servers, hardware, or devices that communicate with one another to exchange data, share resources, and deliver services. | Kumpulan komputer atau perangkat yang saling terhubung untuk berbagi data. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
