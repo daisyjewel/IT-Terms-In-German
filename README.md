@@ -143,10 +143,10 @@
 
 ## 🅿 P
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **das Passwort** | Password | Kata sandi | Kode rahasia untuk memverifikasi identitas pengguna saat masuk sistem. |
-| **die Programmiersprache** | Programming language | Bahasa pemrograman | Bahasa instruksi standar untuk memerintah komputer (seperti Python, SQL). |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
+| :--- | :--- | :--- | :--- | :--- |
+| **das Passwort** | Password | Kata sandi | A secret sequence of characters, letters, or numbers used to authenticate a user's identity and grant access to a system, account, or network. | Kode rahasia untuk memverifikasi identitas pengguna saat masuk sistem. |
+| **die Programmiersprache** | Programming language | Bahasa pemrograman |  a formal language comprising a set of instructions, rules, and syntax used to produce various kinds of output, perform computations, and command a computer to execute specific tasks or algorithms | Bahasa instruksi standar untuk memerintah komputer (seperti Python, SQL). |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
