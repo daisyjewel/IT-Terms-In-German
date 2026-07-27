@@ -134,9 +134,9 @@
 
 ## 🅾️ O
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **der Ordner** | Folder / Directory | Folder / Direktori | Wadah digital yang digunakan untuk mengelompokkan file-file agar rapi. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **der Ordner** | Folder / Directory | Folder / Direktori | A virtual container used for organizing files and subdirectories in a file system. | Wadah digital yang digunakan untuk mengelompokkan file-file agar rapi. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
