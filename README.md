@@ -146,19 +146,19 @@
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
 | :--- | :--- | :--- | :--- | :--- |
 | **das Passwort** | Password | Kata sandi | A secret sequence of characters, letters, or numbers used to authenticate a user's identity and grant access to a system, account, or network. | Kode rahasia untuk memverifikasi identitas pengguna saat masuk sistem. |
-| **die Programmiersprache** | Programming language | Bahasa pemrograman |  a formal language comprising a set of instructions, rules, and syntax used to produce various kinds of output, perform computations, and command a computer to execute specific tasks or algorithms | Bahasa instruksi standar untuk memerintah komputer (seperti Python, SQL). |
+| **die Programmiersprache** | Programming language | Bahasa pemrograman |  a formal language comprising a set of instructions, rules, and syntax used to produce various kinds of output, perform computations, and command a computer to execute specific tasks or algorithms. | Bahasa instruksi standar untuk memerintah komputer (seperti Python, SQL). |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
 
 ## 🆂 S
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **der Serverraum** | Server room | Ruang server | Ruangan khusus bersuhu dingin untuk menyimpan komputer server dan router. |
-| **die Software** | Software | Perangkat运行 | Program komputer yang berisi instruksi digital untuk menjalankan fungsi. |
-| **speichern** | To save | Menyimpan | Proses mengamankan data hasil perubahan ke dalam media penyimpanan. |
-| **die Systemsicherheit** | System security | Keamanan sistem | Upaya memproteksi seluruh elemen komputer dari ancaman luar. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
+| :--- | :--- | :--- | :--- | :--- |
+| **der Serverraum** | Server room | Ruang server | A dedicated room designed to house server hardware, network devices, and data storage systems under controlled environmental conditions. | Ruangan khusus bersuhu dingin untuk menyimpan komputer server dan router. |
+| **die Software** | Software | Perangkat | A set of programs, data, and instructions that tell a computer system how to operate and perform specific tasks. | Program komputer yang berisi instruksi digital untuk menjalankan fungsi. |
+| **speichern** | To save | Menyimpan | The process of writing or recording digital data onto a storage medium (such as HDD, SSD, or cloud storage) for future retrieval. | Proses mengamankan data hasil perubahan ke dalam media penyimpanan. |
+| **die Systemsicherheit** | System security | Keamanan sistem | The practice of protecting computer systems, networks, and data from unauthorized access, cyber threats, damage, or disclosure. | Upaya memproteksi seluruh elemen komputer dari ancaman luar. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
