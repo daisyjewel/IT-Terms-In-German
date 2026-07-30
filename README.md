@@ -183,10 +183,10 @@
 
 ## 🆪 Z
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **der Zugriff** | Access | Akses / Hak masuk | Izin atau kemampuan untuk membuka dan mengelola data/sistem.<br>*Konteks: "Zugriff verweigert" (Access denied).* |
-| **die Zwischenablage** | Clipboard | Papan klip | Tempat penyimpanan memori sementara saat kita melakukan *Copy-Paste*. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
+| :--- | :--- | :--- | :--- | :--- |
+| **der Zugriff** | Access | Akses / Hak masuk | The Access / Permission, ability, or process of gaining entry to, retrieving, or modifying digital resources, files, networks, or databases. | Izin atau kemampuan untuk membuka dan mengelola data/sistem.<br>*Konteks: "Zugriff verweigert" (Access denied).* |
+| **die Zwischenablage** | Clipboard | Papan klip | A temporary storage area in memory used to hold data (like text, images, or files) that has been copied or cut before pasting it elsewhere. | Tempat penyimpanan memori sementara saat kita melakukan *Copy-Paste*. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
