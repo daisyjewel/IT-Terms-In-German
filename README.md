@@ -174,9 +174,9 @@
 
 ## 🆆 W
 
-| Deutsch (German) | English | Indonesia | Penjelasan & Contoh Konteks |
-| :--- | :--- | :--- | :--- |
-| **die Webseite** | Website | Situs web | Halaman informasi digital yang bisa diakses menggunakan web browser. |
+| Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
+| :--- | :--- | :--- | :--- | :--- |
+| **die Webseite** | Website | Situs web | A collection of related web pages or a single page accessible under a single domain name on the World Wide Web. | Halaman informasi digital yang bisa diakses menggunakan web browser. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
