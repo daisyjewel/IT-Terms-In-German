@@ -69,7 +69,9 @@
 
 | Deutsch (German) | English | Indonesia | Explanataion | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
-| **die Fehlermeldung** | Error message | Pesan kesalahan | An automated notification displayed by software or a system indicating that an issue or fault has occurred. | Pemberitahuan dari sistem bahwa terjadi gangguan atau *bug* dalam program. |
+| **der Fachinformatiker** | IT Specialist / Computer Science Specialist (male) | Ahli/Spesialis IT (laki-laki) | A certified professional qualified in information technology who develops software, manages IT infrastructure, or handles system integration. | Tenaga ahli bersertifikat di bidang teknologi informasi yang bertugas mengembangkan perangkat lunak, mengelola infrastruktur IT, atau mengintegrasikan sistem. |
+| **die Fachinformatikerin** | IT Specialist / Computer Science Specialist (female) | Ahli/Spesialis IT (perempuan) | A certified female professional qualified in information technology who develops software, manages IT infrastructure, or handles system integration. | Tenaga ahli perempuan bersertifikat di bidang teknologi informasi yang bertugas mengembangkan perangkat lunak, mengelola infrastruktur IT, atau mengintegrasikan sistem. |
+| **die Fehlermeldung** | Error message | Pesan kesalahan | An automated notification displayed by software or a system indicating that an issue or fault has occurred. | Pemberitahuan dari sistem bahwa terjadi gangguan atau *bug* dalam program. | 
 | **die Festplatte** | Hard drive / HDD | Cakram keras / Hardisk | A hardware component used to permanently store data, operating systems, and files on a computer. | Media penyimpanan data fisik utama di dalam komputer. |
 
 ---
