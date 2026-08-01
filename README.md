@@ -39,6 +39,7 @@
 
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
+| **der Code** | Code / Source code | Kode | A set of instructions or statements written in a programming language that tells a computer what actions to perform. | Kumpulan instruksi atau pernyataan yang ditulis dalam bahasa pemrograman untuk memberi tahu komputer tindakan yang harus dilakukan. |
 | **die Cyberattacke** | Cyberattack | Serangan siber | An intentional and malicious attempt by hackers to compromise, damage, or gain unauthorized access to a computer system or network. | Upaya ilegal untuk merusak, mencuri data, atau menembus jaringan komputer. |
 
 ---
