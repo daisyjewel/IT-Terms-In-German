@@ -150,6 +150,7 @@
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan & Contoh Konteks |
 | :--- | :--- | :--- | :--- | :--- |
 | **das Passwort** | Password | Kata sandi | A secret sequence of characters, letters, or numbers used to authenticate a user's identity and grant access to a system, account, or network. | Kode rahasia untuk memverifikasi identitas pengguna saat masuk sistem. |
+| **privat** | Private / Personal | Privat / Pribadi | Describing data, variables, functions, or settings that are restricted and accessible only within a specific scope, class, or user account. | Menggambarkan data, variabel, fungsi, atau pengaturan yang bersifat terbatas dan hanya dapat diakses dalam lingkup, kelas, atau akun pengguna tertentu. |
 | **die Programmiersprache** | Programming language | Bahasa pemrograman |  a formal language comprising a set of instructions, rules, and syntax used to produce various kinds of output, perform computations, and command a computer to execute specific tasks or algorithms. | Bahasa instruksi standar untuk memerintah komputer (seperti Python, SQL). |
 
 ---
