@@ -160,6 +160,7 @@
 
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
+| **der Server** | Server | Server | A computer system or software application that provides data, resources, or services to other computers (clients) over a network. | Komputer atau sistem perangkat lunak yang menyediakan data, sumber daya, atau layanan kepada komputer lain (klien) melalui jaringan. |
 | **der Serverraum** | Server room | Ruang server | A dedicated room designed to house server hardware, network devices, and data storage systems under controlled environmental conditions. | Ruangan khusus bersuhu dingin untuk menyimpan komputer server dan router. |
 | **die Software** | Software | Perangkat | A set of programs, data, and instructions that tell a computer system how to operate and perform specific tasks. | Program komputer yang berisi instruksi digital untuk menjalankan fungsi. |
 | **speichern** | To save | Menyimpan | The process of writing or recording digital data onto a storage medium (such as HDD, SSD, or cloud storage) for future retrieval. | Proses mengamankan data hasil perubahan ke dalam media penyimpanan. |
