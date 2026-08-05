@@ -173,8 +173,7 @@
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
 | **Technisch** | technical / technologically | teknis / secara teknis | Relating to or involving practical skills, technology, engineering, or applied science. | Sesuatu yang berkaitan dengan teknologi, rekayasa, atau keterampilan teknis dan sains terapan. |
-|**das Terminal** | Terminal / Command-line Interface | Terminal / Antarmuka baris perintah | A text-based interface used to enter and execute commands directly to the operating system or system software. | 
-Antarmuka berbasis teks yang digunakan untuk memasukkan dan menjalankan perintah secara langsung ke sistem operasi atau perangkat lunak sistem. |
+|**das Terminal** | Terminal / Command-line Interface | Terminal / Antarmuka baris perintah | A text-based interface used to enter and execute commands directly to the operating system or system software. | Antarmuka berbasis teks yang digunakan untuk memasukkan dan menjalankan perintah secara langsung ke sistem operasi atau perangkat lunak sistem. |
 
 
 
