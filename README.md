@@ -169,7 +169,7 @@
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
 
-## T
+##  T
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
 | **Technisch** | technical / technologically | teknis / secara teknis | Relating to or involving practical skills, technology, engineering, or applied science. | Sesuatu yang berkaitan dengan teknologi, rekayasa, atau keterampilan teknis dan sains terapan. |
