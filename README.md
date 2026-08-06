@@ -61,6 +61,7 @@
 
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
+| **die Echtzeit** | Real-time | Waktu nyata (real-time) | The actual time during which a process or event occurs, where data processing and response happen almost instantaneously without perceptible delay. | Waktu aktual saat suatu proses atau kejadian berlangsung, di mana pemrosesan data dan respons terjadi secara seketika tanpa penundaan yang berarti. |
 | **entwickeln** | To develop | Mengembangkan | To create, design, or improve software, applications, or systems through coding and engineering. | Proses merancang dan membangun perangkat lunak atau sistem. |
 
 ---
