@@ -21,6 +21,7 @@
 | **die Aktualisierung** | Update | Pembaruan | The process of updating software to a newer version. | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
 | **der Algorithmus** | Algorithm | Algoritma | A logical and systematic sequence of steps to solve a specific problem. | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah.
 | **die Anwendung** | Application / App | Aplikasi | A software program designed to perform specific tasks for the user. | Program perangkat lunak yang dirancang untuk menjalankan tugas spesifik pengguna. |
+| **die Authentisierung** | Authentication | Autentikasi | The process of verifying the identity of a user, device, or system trying to access computer resources, typically using credentials like passwords, security tokens, or biometrics. | Proses verifikasi identitas pengguna, perangkat, atau sistem yang mencoba mengakses sumber daya komputer, biasanya menggunakan kredensial seperti kata sandi, token keamanan, atau pemindaian biometrik. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
