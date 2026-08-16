@@ -51,9 +51,9 @@
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
 | **die Datei** | File | Berkas / Dokumen | A collection of stored data or information on a computer, identified by a specific name and extension. | Kumpulan data digital yang disimpan dalam media penyimpanan. |
+| **die Datenbank** | Database | Basis data / Database | An organized collection of structured data stored electronically and easily accessed or managed. | Tempat penyimpanan data digital yang terorganisir (seperti MariaDB). |
 | **die Datenkompression** | Data compression | Kompresi data | The process of reducing the size of a data file to save storage space or speed up file transmission. | Proses mengecilkan ukuran file (misalnya diubah menjadi format `.zip` atau `.rar`). |
 | **der Datenschutz** | Data privacy / protection | Perlindungan data | The protection of personal data and privacy from unauthorized access, misuse, or exploitation. | Regulasi perlindungan data pribadi agar tidak disalahgunakan di internet. |
-| **die Datenbank** | Database | Basis data / Database | An organized collection of structured data stored electronically and easily accessed or managed. | Tempat penyimpanan data digital yang terorganisir (seperti MariaDB). |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
