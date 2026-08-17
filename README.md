@@ -54,6 +54,7 @@
 | **die Datenbank** | Database | Basis data / Database | An organized collection of structured data stored electronically and easily accessed or managed. | Tempat penyimpanan data digital yang terorganisir (seperti MariaDB). |
 | **die Datenkompression** | Data compression | Kompresi data | The process of reducing the size of a data file to save storage space or speed up file transmission. | Proses mengecilkan ukuran file (misalnya diubah menjadi format `.zip` atau `.rar`). |
 | **der Datenschutz** | Data privacy / protection | Perlindungan data | The protection of personal data and privacy from unauthorized access, misuse, or exploitation. | Regulasi perlindungan data pribadi agar tidak disalahgunakan di internet. |
+| **der Datenverkehr** | Data traffic / Network traffic | Lalu lintas data / Lalu lintas jaringan | The volume of data moving across a network or between systems over a specific period. | Jumlah atau arus data yang dikirim dan diterima melalui jaringan komputer atau antar sistem dalam jangka waktu tertentu. |
 
 ---
 [ ↑ Kembali ke Atas ](#-techdeutsch-alphabetical-german-english-indonesian-it-dictionary)
