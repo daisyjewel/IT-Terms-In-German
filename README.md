@@ -17,6 +17,7 @@
 
 | Deutsch (German) | English | Indonesia | Explanation | Penjelasan |
 | :--- | :--- | :--- | :--- | :--- |
+| **abfangen (Cybersecurity / Networking)** | to intercept / to eavesdrop | menyadap | To unauthorizedly capture or listen in on data packets, messages, or network traffic while they are being transmitted between systems. | Tindakan menyadap atau mencegat paket data, pesan, atau lalu lintas jaringan secara ilegal saat sedang dikirim antar sistem. |
 | **der Absturz** | Crash / System failure | Sistem runtuh / Hang | A condition when a program or the entire operating system suddenly stops working. | Kondisi saat program atau seluruh sistem operasi tiba-tiba berhenti bekerja. |
 | **die Aktualisierung** | Update | Pembaruan | The process of updating software to a newer version. | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
 | **der Algorithmus** | Algorithm | Algoritma | A logical and systematic sequence of steps to solve a specific problem. | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah.
