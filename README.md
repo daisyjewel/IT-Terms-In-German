@@ -22,6 +22,7 @@
 | **der Absturz** | Crash / System failure | Sistem Hang | A condition when a program or the entire operating system suddenly stops working. | Kondisi saat program atau seluruh sistem operasi tiba-tiba berhenti bekerja. |
 | **die Aktualisierung** | Update | Pembaruan | The process of updating software to a newer version. | Proses memperbarui perangkat lunak ke versi yang lebih baru. |
 | **der Algorithmus** | Algorithm | Algoritma | A logical and systematic sequence of steps to solve a specific problem. | Urutan langkah logis dan sistematis untuk menyelesaikan suatu masalah.
+| **der Anschluss** | Port / Connection / Socket | Port / Sambungan / Colokan | A physical slot, port, or interface on a device (e.g., USB, HDMI) used to connect cables or peripheral hardware. | Lubang, port, atau antarmuka fisik pada perangkat (misalnya USB, HDMI) yang digunakan untuk menyambungkan kabel atau perangkat keras tambahan. |
 | **die Anwendung** | Application / App | Aplikasi | A software program designed to perform specific tasks for the user. | Program perangkat lunak yang dirancang untuk menjalankan tugas spesifik pengguna. |
 | **die Authentisierung** | Authentication | Autentikasi | The process of verifying the identity of a user, device, or system trying to access computer resources, typically using credentials like passwords, security tokens, or biometrics. | Proses verifikasi identitas pengguna, perangkat, atau sistem yang mencoba mengakses sumber daya komputer, biasanya menggunakan kredensial seperti kata sandi, token keamanan, atau pemindaian biometrik. |
 
